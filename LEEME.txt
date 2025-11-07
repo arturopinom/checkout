@@ -1,0 +1,35 @@
+═══════════════════════════════════════════════════
+  ENERGY CLUB - CHECKOUT
+═══════════════════════════════════════════════════
+
+🎯 PARA VER EL CHECKOUT:
+
+   → Abre el archivo: checkout-full.html
+   
+   (Simplemente haz doble clic en él)
+
+═══════════════════════════════════════════════════
+
+📁 ARCHIVOS INCLUIDOS:
+
+✅ checkout-full.html    → Abrir este para ver el checkout
+                           (Todo en un solo archivo)
+
+📂 Para desarrollo:
+   - index.html          → Versión modular
+   - css/styles.css      → Estilos separados
+   - js/main.js          → JavaScript separado
+   - README.md           → Documentación completa
+
+═══════════════════════════════════════════════════
+
+🚀 PARA SUBIR A GITHUB:
+
+1. git init
+2. git add .
+3. git commit -m "Initial commit"
+4. git push
+
+Luego activa GitHub Pages en Settings → Pages
+
+═══════════════════════════════════════════════════
