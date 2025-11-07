@@ -5,7 +5,7 @@ Sistema de checkout moderno y optimizado para Energy Club, diseñado con un enfo
 ## 🚀 Inicio Rápido
 
 ### Opción 1: Abrir directamente (Más fácil)
-1. Abre el archivo `checkout-full.html` en tu navegador
+1. Abre el archivo `checkout-updated3si` en tu navegador
 2. ¡Listo! Todo funciona sin necesidad de servidor
 
 ### Opción 2: Versión modular para desarrollo
