@@ -2,6 +2,19 @@
 
 Sistema de checkout moderno y optimizado para Energy Club, diseñado con un enfoque mobile-first y siguiendo las mejores prácticas de UX/UI.
 
+## 🚀 Inicio Rápido
+
+### Opción 1: Abrir directamente (Más fácil)
+1. Abre el archivo `checkout-full.html` en tu navegador
+2. ¡Listo! Todo funciona sin necesidad de servidor
+
+### Opción 2: Versión modular para desarrollo
+1. Usa un servidor local (ver instrucciones abajo)
+2. Abre `index.html`
+
+## ⚠️ Importante
+**Si ves solo texto "Saltar al contenido"** significa que estás abriendo `index.html` sin servidor. Usa `checkout-full.html` en su lugar.
+
 ## 🚀 Características
 
 - ✨ Diseño minimalista inspirado en Apple y Nike
